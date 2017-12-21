@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: emojify
+Version: 0.1
+Summary: A python project to overlay an emoji on your face based on the emotion predicted by the convolutional neural network
+Home-page: http://github.com/storborg/funniest
+Author: Shivam Kumar
+Author-email: shivampkumar@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

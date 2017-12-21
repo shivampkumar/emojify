@@ -1,0 +1,7 @@
+setup.py
+emojify.egg-info/PKG-INFO
+emojify.egg-info/SOURCES.txt
+emojify.egg-info/dependency_links.txt
+emojify.egg-info/not-zip-safe
+emojify.egg-info/requires.txt
+emojify.egg-info/top_level.txt
